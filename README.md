@@ -31,4 +31,4 @@ The tool should also have the following features:
 
 (iv) Load a file containing groups of control points and parameters.
 
-Compile the code using command: g++ t10.cpp -lGL -lGLU -lglut -o t10
+**Compile the code using command: g++ t10.cpp -lGL -lGLU -lglut -o t10**
