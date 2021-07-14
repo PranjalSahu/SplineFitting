@@ -3,6 +3,8 @@ SplineFitting
 
 C++ code for illustrating Spline Fitting in OpenGL
 
+![Alt Text](https://github.com/PranjalSahu/SplineFitting/blob/master/spline_fitting.gif)
+
 Design a tool where a user can interactively draw a sequence of control point and draw a smooth curve using the following techniques:
 
 (i) By computing appropriate first derivatives in the parametric space and specifying end conditions (by drawing arrows for showing the direction of derivative), to get a piecewise smooth second order continuos curves passing through each of these points,
@@ -29,5 +31,3 @@ The tool should also have the following features:
 
 (iv) Load a file containing groups of control points and parameters.
 
-
-![Alt Text](https://github.com/PranjalSahu/SplineFitting/blob/master/spline_fitting.gif)
