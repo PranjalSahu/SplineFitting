@@ -28,3 +28,6 @@ The tool should also have the following features:
 (iii) Save the whole confuguration in a file using your own file format.
 
 (iv) Load a file containing groups of control points and parameters.
+
+
+![Alt Text](https://github.com/PranjalSahu/SplineFitting/blob/master/spline_fitting.gif)
